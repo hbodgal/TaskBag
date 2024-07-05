@@ -1,7 +1,3 @@
-To create a nice README file that showcases the journey of learning and creating your app, you can structure it as follows:
-
----
-
 # TASKBAG
 
 ## Overview
