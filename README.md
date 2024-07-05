@@ -31,7 +31,6 @@ List the technologies and libraries/frameworks used in your app development.
 ### Reusing Components
 
 - **Description:** Reused a single button for multiple uses with different event handlers.
-- **Centralized Logic:** How you centralized logic to maintain clarity and efficiency.
 
 ### Persistent Storage
 
