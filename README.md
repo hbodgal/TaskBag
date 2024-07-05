@@ -2,7 +2,7 @@
 
 ## Overview
 
-TASKBAG is an app that can be used to add tasks. it use localstorage to store data locally in the browser which helps you to keep it personalize and localized. It has been improvised to give best performance and with the best coding practices to reducecomputation as much as possible.
+TASKBAG is Task Management app. it use localstorage to store data locally in the browser which helps you to keep it personalize and localized. It has been improvised to give best performance and with the best coding practices to reduce computation as much as possible.
 
 ## Technologies Used
 
