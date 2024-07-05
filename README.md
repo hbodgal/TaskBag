@@ -17,17 +17,14 @@ List the technologies and libraries/frameworks used in your app development.
 ### Iteration 1: Prop Drilling
 
 - **Description:** Initially used prop drilling for state management.
-- **Challenges:** Discuss any challenges faced and improvements needed.
 
 ### Iteration 2: Context API
 
 - **Description:** Moved to using Context API for better state management across components.
-- **Improvements:** How this iteration improved state management and component communication.
 
 ### Iteration 3: Zustand Integration
 
 - **Description:** Integrated Zustand for state management.
-- **Benefits:** Discuss the advantages over previous methods and how it improved performance.
 
 ## Optimization Techniques
 
