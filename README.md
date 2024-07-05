@@ -36,24 +36,15 @@ List the technologies and libraries/frameworks used in your app development.
 ### Persistent Storage
 
 - **Description:** Used localStorage for persistent data storage in the browser.
-- **Implementation:** How you managed data persistence using useEffect and localStorage.
 
 ### Sorting Optimization
 
-- **Description:** Initially faced performance issues with sorting on every render.
-- **Solution:** Implemented useMemo to optimize sorting based on dependencies.
+- **Description:** Implemented useMemo to optimize sorting based on dependencies.
 
 ### Context API Usage
 
-- **Description:** Strategically used Context API to avoid prop drilling.
-- **Custom Hooks:** Created custom hooks to streamline useContext usage.
+- **Description:** Created custom hooks to streamline useContext usage.
 
 ### Error Handling
 
 - **Description:** Implemented error handling in ItemContextProvider to prevent misuse.
-- **Benefits:** How this improved robustness and stability of the app.
-
-## Performance Considerations
-
-- **Avoiding Context API Overuse:** Discuss why and how you avoided overusing Context API for performance reasons.
-- **UseMemo Usage:** How useMemo was used to optimize performance-critical operations.
