@@ -1,12 +1,12 @@
 export const initialItems = [
 {
     id: 1,
-    name: "goo mood",
+    name: "buy fruits",
     packed: true
 },
 {
     id: 2,
-    name: "bad mood",
+    name: "check Mailbox",
     packed: false
 }
 ];
